@@ -2,8 +2,10 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
 
 const cryptoNewsHeaders = {
-  'x-rapidapi-key': '9e16350c7emsh4dc6b931cc36278p1d499fjsn613e1d53c782',
-  'x-rapidapi-host': 'cryptocurrency-news2.p.rapidapi.com',
+  // 'x-rapidapi-key': '9e16350c7emsh4dc6b931cc36278p1d499fjsn613e1d53c782',
+  // 'x-rapidapi-host': 'cryptocurrency-news2.p.rapidapi.com',
+  'x-rapidapi-key': 'f01f23da47mshbe6644abce2ba04p112679jsne45398087d5c',
+	'x-rapidapi-host': 'cryptocurrency-news2.p.rapidapi.com',
 };
 
 
